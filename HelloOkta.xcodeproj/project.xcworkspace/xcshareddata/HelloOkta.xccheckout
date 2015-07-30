@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EC9B472F-26BF-47B8-9BBC-392142A78FA2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloOkta</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>74C0EC2B7D87425AB84895D66CE11A57691F99E9</key>
+		<string>https://github.com/nshobayo/HelloOktaSampleAop.git</string>
+		<key>D6882C63E8AFE2CA42B0F4D585C2AECEAD3C0033</key>
+		<string>https://github.com/nshobayo/HelloOktaSampleAop.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HelloOkta.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>74C0EC2B7D87425AB84895D66CE11A57691F99E9</key>
+		<string>../../../Final%20HelloOkta/HelloOkta</string>
+		<key>D6882C63E8AFE2CA42B0F4D585C2AECEAD3C0033</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nshobayo/HelloOktaSampleAop.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D6882C63E8AFE2CA42B0F4D585C2AECEAD3C0033</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D6882C63E8AFE2CA42B0F4D585C2AECEAD3C0033</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HelloOkta</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>74C0EC2B7D87425AB84895D66CE11A57691F99E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HelloOkta</string>
+		</dict>
+	</array>
+</dict>
+</plist>

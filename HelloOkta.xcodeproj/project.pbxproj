@@ -51,17 +51,17 @@
 		8D0E5C4F1B2A2B4C00090D00 /* LoginResultViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginResultViewController.m; sourceTree = "<group>"; };
 		8D0E5C511B2A437C00090D00 /* SingleLogin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SingleLogin.h; sourceTree = "<group>"; };
 		8D0E5C521B2A437C00090D00 /* SingleLogin.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SingleLogin.m; sourceTree = "<group>"; };
-		8D0E5C541B30C01600090D00 /* oktaImage */ = {isa = PBXFileReference; lastKnownFileType = folder; name = oktaImage; path = ../../../oktaImage; sourceTree = "<group>"; };
-		8D0E5C561B30C82200090D00 /* logo-large (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo-large (1).png"; path = "../../../oktaImage/logo-large (1).png"; sourceTree = "<group>"; };
-		8D0E5C581B30CDB500090D00 /* okta-logo-stacked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "okta-logo-stacked.png"; path = "../../../oktaImage/okta-logo-stacked.png"; sourceTree = "<group>"; };
+		8D0E5C541B30C01600090D00 /* oktaImage */ = {isa = PBXFileReference; lastKnownFileType = folder; path = oktaImage; sourceTree = "<group>"; };
+		8D0E5C561B30C82200090D00 /* logo-large (1).png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "logo-large (1).png"; path = "oktaImage/logo-large (1).png"; sourceTree = "<group>"; };
+		8D0E5C581B30CDB500090D00 /* okta-logo-stacked.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "okta-logo-stacked.png"; path = "oktaImage/okta-logo-stacked.png"; sourceTree = "<group>"; };
 		8D2799691B3B542900FCBD89 /* LoginFlow.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoginFlow.h; sourceTree = "<group>"; };
 		8D27996A1B3B542900FCBD89 /* LoginFlow.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoginFlow.m; sourceTree = "<group>"; };
 		8D2799C81B3DC7D700FCBD89 /* KeychainUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = KeychainUtils.h; sourceTree = "<group>"; };
 		8D2799C91B3DC7D700FCBD89 /* KeychainUtils.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = KeychainUtils.m; sourceTree = "<group>"; };
-		8D2799D41B3E0AD500FCBD89 /* globals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = globals.h; path = "../../../Final HelloOkta/HelloOkta/HelloOkta/globals.h"; sourceTree = "<group>"; };
-		8D2799D71B3E0E1300FCBD89 /* globals.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = globals.m; path = "../../../Final HelloOkta/HelloOkta/HelloOkta/globals.m"; sourceTree = "<group>"; };
+		8D2799D41B3E0AD500FCBD89 /* globals.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = globals.h; sourceTree = "<group>"; };
+		8D2799D71B3E0E1300FCBD89 /* globals.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = globals.m; sourceTree = "<group>"; };
 		8D2799D91B3E0F5500FCBD89 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = "../../../Final HelloOkta/HelloOkta/HelloOkta/main.m"; sourceTree = "<group>"; };
-		8DD531D81B42FDAC0026BED9 /* okta_logo-stacked_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "okta_logo-stacked_white.png"; path = "../../../../Downloads/okta_logo-stacked_white.png"; sourceTree = "<group>"; };
+		8DD531D81B42FDAC0026BED9 /* okta_logo-stacked_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "okta_logo-stacked_white.png"; path = "oktaImage/okta_logo-stacked_white.png"; sourceTree = "<group>"; };
 		8DEBE90E1B32300300B70580 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
